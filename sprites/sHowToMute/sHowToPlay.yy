@@ -25,8 +25,8 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"a6dc8604-fac8-456e-b0af-bf2ef2edac6d","path":"sprites/sHowToPlay/sHowToPlay.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a6dc8604-fac8-456e-b0af-bf2ef2edac6d","path":"sprites/sHowToPlay/sHowToPlay.yy",},"LayerId":{"name":"c90e5295-bb0d-4f1f-aad5-d875e72bbc58","path":"sprites/sHowToPlay/sHowToPlay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
         {"FrameId":{"name":"a6dc8604-fac8-456e-b0af-bf2ef2edac6d","path":"sprites/sHowToPlay/sHowToPlay.yy",},"LayerId":{"name":"f571b581-3222-4c35-a525-06fe1316edb0","path":"sprites/sHowToPlay/sHowToPlay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"a6dc8604-fac8-456e-b0af-bf2ef2edac6d","path":"sprites/sHowToPlay/sHowToPlay.yy",},"LayerId":{"name":"c90e5295-bb0d-4f1f-aad5-d875e72bbc58","path":"sprites/sHowToPlay/sHowToPlay.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sHowToPlay","path":"sprites/sHowToPlay/sHowToPlay.yy",},"resourceVersion":"1.0","name":"a6dc8604-fac8-456e-b0af-bf2ef2edac6d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {

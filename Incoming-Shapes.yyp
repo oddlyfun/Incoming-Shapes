@@ -13,6 +13,7 @@
     {"id":{"name":"soStarPickup","path":"sounds/soStarPickup/soStarPickup.yy",},"order":5,},
     {"id":{"name":"sSquare","path":"sprites/sSquare/sSquare.yy",},"order":4,},
     {"id":{"name":"sBrickBlown","path":"sprites/sBrickBlown/sBrickBlown.yy",},"order":0,},
+    {"id":{"name":"sHowToMute","path":"sprites/sHowToMute/sHowToMute.yy",},"order":25,},
     {"id":{"name":"sBlock","path":"sprites/sBlock/sBlock.yy",},"order":15,},
     {"id":{"name":"soPlayerExplode","path":"sounds/soPlayerExplode/soPlayerExplode.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":1,},
