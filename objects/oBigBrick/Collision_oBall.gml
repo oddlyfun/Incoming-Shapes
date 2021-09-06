@@ -8,10 +8,11 @@ if ( killable == true )
 	
 	
 	global.rot = phy_rotation;
+	
+//	x = floor(x);
+	//y = floor(y);
+	
 	instance_create_layer(x,y,"blocks",oBrick);
 	instance_create_layer(x,y,"blocks",oBrick);
-	
-	
-	
 	
 }

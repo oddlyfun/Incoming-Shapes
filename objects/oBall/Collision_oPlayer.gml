@@ -1,7 +1,12 @@
 audio_play_sound(soCollide,10,false);
 
 
-instance_create_layer(phy_collision_x,phy_collision_y,"balls",oExplode);
+var _x = phy_collision_x[0];
+var _y = phy_collision_y[0];
+
+instance_create_layer(_x,_y,"balls",oExplode);
+
+
 collisions++;
 
 if ( collisions > breaking_point + 1 )
