@@ -5,8 +5,11 @@ if ( just_hit == false ){
 	just_hit = true;
 	damage_taken = damage_taken + 1;
 
-	//damage_taken = clamp(damage_taken,0,image_number - 1);
-
+	with(other)
+	{
+		event_perform(ev_collision,oBall);
+	}
+	global.kills = global.kills + 1;
 
 	alarm_set(1,room_speed);
 }

@@ -6,11 +6,11 @@ var _y = room_height / 2;
 
 if ( choose(true,false) )
 {
-	show_debug_message("Right");
+	//show_debug_message("Right");
 	_x = irandom_range(room_width + 50, room_width + 75);
 } else
 {
-	show_debug_message("Left");
+	//show_debug_message("Left");
 	_x = irandom_range(-100,-50);
 }
 
@@ -18,11 +18,11 @@ if ( choose(true,false) )
 
 if ( choose(true,false) )
 {
-	show_debug_message("Top");
+	//show_debug_message("Top");
 	_y = irandom_range(-100, -50);
 } else
 {
-	show_debug_message("Bottom");
+	//show_debug_message("Bottom");
 	_y = irandom_range(room_height + 50, room_height + 75);
 }
 

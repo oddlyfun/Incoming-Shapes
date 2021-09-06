@@ -1,4 +1,5 @@
 randomize();
+audio_stop_all();
 draw_set_font(fntFlash);
 
 audio_play_sound(soBackground,1,true);
@@ -8,6 +9,7 @@ alarm_set(1,room_speed * 2);
 
 
 global.game_over = false;
+global.kills = 0;
 frame = 0;
 seconds = 0;
 minutes = 0;

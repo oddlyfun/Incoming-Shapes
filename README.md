@@ -11,3 +11,10 @@ Personal Game Jam Restrictions:
 - 4 Days
 - Single Art Asset :: https://www.kenney.nl/assets/rolling-ball-assets
 
+
+Music -
+
+Battle Screen: https://opengameart.org/users/maxstack  //  https://opengameart.org/content/through-space
+Title Screen: https://opengameart.org/content/nebula
+
+Sound Effects - All by me using SFXR

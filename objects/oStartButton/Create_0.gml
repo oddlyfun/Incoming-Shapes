@@ -5,3 +5,5 @@ image_speed = 0;
 image_index = 0;
 
 draw_set_font(fntFlash);
+
+audio_play_sound(soTitleScreen,50,true);
