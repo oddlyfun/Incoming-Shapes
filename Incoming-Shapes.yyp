@@ -38,7 +38,6 @@
     {"id":{"name":"sBigBlockBlown","path":"sprites/sBigBlockBlown/sBigBlockBlown.yy",},"order":3,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":2,},
     {"id":{"name":"sRedBall","path":"sprites/sRedBall/sRedBall.yy",},"order":10,},
-    {"id":{"name":"blockKillers","path":"scripts/blockKillers/blockKillers.yy",},"order":0,},
     {"id":{"name":"rollingBall_sheet","path":"sprites/rollingBall_sheet/rollingBall_sheet.yy",},"order":6,},
     {"id":{"name":"sExplode","path":"sprites/sExplode/sExplode.yy",},"order":8,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":4,},
